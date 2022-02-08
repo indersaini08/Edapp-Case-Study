@@ -1,2 +1,2 @@
-# Prismic & Next.js Edapp Front end Developer test
+# Prismic & Next.js Edapp Case Study
 
